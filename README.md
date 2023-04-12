@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @baraqheart
-- 👀 I’m interested in ...
+- 👀 I’m a Devops/cloud Engineer
 - 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on cloud projects
 - 📫 How to reach me ubaraqheart@gmail.com
