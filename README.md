@@ -23,7 +23,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center"></h1>
 
 ###
 
@@ -102,5 +102,27 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/TechViaje?sub_confirmation=1)
+
+
+
+
+###
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=baraqheart&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=baraqheart&theme=gruvbox&border_radius=4.5) -->
+
+#
 
 ###
