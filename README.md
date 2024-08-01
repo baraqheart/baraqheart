@@ -105,7 +105,7 @@
 
 ###
 
-### 📺 Latest YouTube Videos
+### 🎬 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Linux in 15 minutes](https://ytcards.demolab.com/?id=cbhuyokMUzY&title=Linux+in+15+minutes&lang=en&timestamp=1696093232&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Linux in 15 minutes")](https://www.youtube.com/watch?v=cbhuyokMUzY)
@@ -118,9 +118,16 @@
 
 
 ###
+
+### ✨📝 [Find my Latest Medium Articles here](https://baraqheart.medium.com/)
+
+![](https://github.com/baraqheart/terraformProjects/blob/main/medium.PNG)
+
+
+
+
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=baraqheart&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=baraqheart&theme=gruvbox&border_radius=4.5) -->
 
